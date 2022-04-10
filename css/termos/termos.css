@@ -1,0 +1,32 @@
+.termos-titulo-bg {
+  background-color: var(--cor-12);
+}
+
+.termos-titulo {
+  padding-top: 80px;
+  padding-bottom: 40px;
+}
+
+.termos-bg {
+  background-color: var(--cor-1);
+}
+
+.termos:first-child {
+  padding-top: 80px;
+}
+.termos:last-child {
+  padding-bottom: 80px;
+}
+
+.termos {
+  padding-bottom: 40px;
+}
+
+.termos h2 {
+  padding-bottom: 20px;
+}
+
+.termos p {
+  padding-bottom: 20px;
+  max-width: 75ch;
+}

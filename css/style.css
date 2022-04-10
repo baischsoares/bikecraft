@@ -19,3 +19,13 @@
 
 /*seguros*/
 @import "./seguros/seguros.css";
+
+/*termos*/
+@import "./termos/termos.css";
+
+.termos:first-child {
+  padding-top: 80px;
+}
+.termos:last-child {
+  padding-bottom: 80px;
+}
